@@ -1,0 +1,25 @@
+#green{
+    width:100px;
+    height:100px;
+    background-color:#33CC33;
+    transition: background-color 0.2s ease;
+}
+
+#red{
+    width:100px;
+    height:100px;
+    background-color:#FF0000;
+    transition: background-color 0.2s ease;
+}
+#yellow{
+    width:100px;
+    height:100px;
+    background-color:#FFFF00;
+    transition: background-color 0.2s ease;
+}
+#blue{
+    width:100px;
+    height:100px;
+    background-color:#0066FF;
+    transition: background-color 0.2s ease;
+}
